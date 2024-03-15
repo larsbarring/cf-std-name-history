@@ -1,1 +1,2 @@
-# cf-std-name-history
+# THIS IS A TEMPORARY REPO. 
+# DO NOT  USE  FOR ANYTHING (AT ALL!!!)
